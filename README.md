@@ -1,8 +1,7 @@
 # Cofrinho Virtual
 
 <h3>Descrição</h3>
-<p>Este repositório contém o projeto desenvolvido para a disciplina de Programação Orientada a Objetos da universidade. Trata-se de um cofrinho virtual, 
-  implementado em Java, que permite adicionar, remover, listar moedas e calcular o total em reais do cofrinho.</p>
+<p>Este repositório contém o projeto desenvolvido para a disciplina de Programação Orientada a Objetos da universidade. Trata-se de um cofrinho virtual que permite adicionar, remover, listar moedas e calcular o total em reais do cofrinho.</p>
 
 <h3>Funcionalidades</h3>
 <ul>
